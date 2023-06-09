@@ -1,6 +1,6 @@
 # CHIRP Project
 
-This is the official git repository for the
+This is Dave's copy
 __[CHIRP](https://chirp.danplanet.com)__ project.
 
 When submitting PRs, please squash commits into logical units in a fashion
